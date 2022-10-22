@@ -21,3 +21,5 @@ if __name__ == '__main__':
 # master test
 # hotfix 二次修改
 # 推送的练习
+
+# ssh连接的练习
